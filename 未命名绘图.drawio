@@ -1,9 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="qZWdtd4PdeNVoy_kkJgc">
-    <mxGraphModel>
+    <mxGraphModel dx="1019" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gxAUEp19GIJThpWyPUqA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-1" target="gxAUEp19GIJThpWyPUqA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-1" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-2" target="gxAUEp19GIJThpWyPUqA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-2" value="拆解工作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-3" target="gxAUEp19GIJThpWyPUqA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-3" value="撰寫程式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-4" target="gxAUEp19GIJThpWyPUqA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-30" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;如果&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; font-weight: 700;&quot;&gt;review 未達 90%&lt;br&gt;在提出修改內容給轉寫程式 Agent 去修改&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gxAUEp19GIJThpWyPUqA-27">
+          <mxGeometry x="-0.0462" y="-1" relative="1" as="geometry">
+            <mxPoint x="109" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-4" target="gxAUEp19GIJThpWyPUqA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-4" value="Code Review" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-10" target="gxAUEp19GIJThpWyPUqA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-10" value="撰寫測試" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-13" target="gxAUEp19GIJThpWyPUqA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-13" value="發 MR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-15" target="gxAUEp19GIJThpWyPUqA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-15" value="建立測試環境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-18" target="gxAUEp19GIJThpWyPUqA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gxAUEp19GIJThpWyPUqA-18" target="gxAUEp19GIJThpWyPUqA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="690" />
+              <mxPoint x="750" y="300" />
+              <mxPoint x="420" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-18" value="自動測試" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-23" value="測試有問題需要再次撰寫&lt;br&gt;或是就直接通知 PD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="560" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gxAUEp19GIJThpWyPUqA-24" value="人工 Review" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
